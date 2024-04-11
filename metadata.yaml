@@ -1,0 +1,46 @@
+_repo: Suorasanaisia-runoelmia_73171
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Kouta, Aarni
+    alias: Candolin, Arnold Elias
+    birthdate: 1884
+    deathdate: 1924
+    gutenberg_agent_id: '7932'
+    url: http://www.gutenberg.org/2009/agents/7932
+    wikipedia: https://fi.wikipedia.org/wiki/Aarni_Kouta
+creator:
+  author:
+    agent_name: Tegengren, Jacob
+    alias: Tegengren, Jakob
+    birthdate: 1875
+    deathdate: 1956
+    gutenberg_agent_id: '56974'
+    url: http://www.gutenberg.org/2009/agents/56974
+    wikipedia:
+    - https://sv.wikipedia.org/wiki/Jacob_Tegengren
+    - https://fi.wikipedia.org/wiki/Jacob_Tegengren
+description: ''
+gutenberg_issued: '2024-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73171'
+language: fi
+pgterms:marc905: 20220711021057tegengren
+pgterms:marc906: '1902'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHämeenlinna :$bBoman & Karlsson, $c1902.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Swedish literature -- Translations into Finnish'
+- !lcc 'PT'
+- GITenberg
+tableOfContents: Kevätlintuja -- Iltalaulu -- Kaksi suorasanaista runoelmaa -- Kehtolaulu
+  uinuville sieluille -- Käy mukaan, Marianne, nyt on metsissä kesä! -- Unelma Iisasta
+  -- Regina -- Yhä valkeammaksi, yhä äänettömämmäksi -- Tarina eräästä isästä -- Kuninkaan
+  unelmia -- Joutsenet.
+title: Suorasanaisia runoelmia
+url: http://www.gutenberg.org/ebooks/73171
