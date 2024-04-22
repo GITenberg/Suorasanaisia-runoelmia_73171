@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '7932'
     url: http://www.gutenberg.org/2009/agents/7932
     wikipedia: https://fi.wikipedia.org/wiki/Aarni_Kouta
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tegengren, Jacob
@@ -21,6 +24,8 @@ creator:
     - https://sv.wikipedia.org/wiki/Jacob_Tegengren
     - https://fi.wikipedia.org/wiki/Jacob_Tegengren
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73171#Suorasanaisia-runoelmia
 gutenberg_issued: '2024-03-15'
 gutenberg_type: Text
 identifiers:
